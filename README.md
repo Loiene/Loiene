@@ -1,5 +1,5 @@
 Olá! Meu nome é Thalita Loiene, e eu sou nova na comunidade GitHub.
-Sou aluna do 7º termo do curso de SIS, e atualemte estou aprendendo as linguagens de programação Java e PHP, e como utilizar o banco de dados MySQL.
+Sou aluna do 7º termo do curso de SIS, e atualmente estou aprendendo as linguagens de programação Java e PHP, e como utilizar o banco de dados MySQL.
 Durante meu percurso na faculdade eu aprendi: C, C++, C#, HTML, CSS, Frameworks (como Bootstrap por exemplo), MVC, e banco SQL Server.
 Confesso que possuo maior atração com Front-end e pretendo me aprofundar nisso.
 
